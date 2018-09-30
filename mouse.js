@@ -1,5 +1,4 @@
 function mouse(argument) {
 
-	cjnxj 
-	dckn
 }
+module.exports= Cat
