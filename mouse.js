@@ -1,3 +1,5 @@
 function mouse(argument) {
-	// body...
+
+	cjnxj 
+	dckn
 }
