@@ -1,4 +1,4 @@
-function mouse(name) {
-	this.name = 'Mouse'
+function mouse(argument) {
+
 }
 module.exports= Cat

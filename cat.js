@@ -1,7 +1,5 @@
-function Cat(name) {
-	this.name = 'Cho';
-	this.age = 3;
-	this.isDead = true
+function Cat(argument) {
+
 }
 
 Cat.prototype.eat = function(mouse){
